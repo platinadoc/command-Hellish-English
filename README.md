@@ -2,7 +2,7 @@
 ### Oleksandr Shereshkov  | team lead
 - reviews
 - how-we-do
-### Yryna Kudria  | scrum master
+### Yrina Kudria  | scrum master
 - about
 - guarantee
 - program
